@@ -1,0 +1,56 @@
+{
+    "Personal information":{
+        "name": "Suryaprakash M",
+        "age": 24,
+        "emailId": "suryaprakash1998@gmail.com",
+        "phone": 8870375810,
+        "DOB":"10-DEC-1998",
+        "address":{
+            "houseNo":"6/620",
+            "streetName":"Rajiv Nagar",
+            "district":"Salem",
+            "pin": 636112,
+            "country": "India"
+        }
+    },
+    "work":{
+        "companyName":"Infosys LTD",
+        "role": "System Engineer",
+        "experience": "1 year 7 nmonths",
+        "location": "Chennai"
+    },
+    "education":
+    [
+        {
+            "college name": "Sona College of Technology",
+            "qualification": "BE-ECE",
+            "passed out year": 2020,
+            "gpa": 7.8,
+            "location": "salem, TN"
+        }
+    ],
+    "programming language":[
+        "python", "C", "HTML", "CSS", "Javascript"
+    ],
+    "awards":[
+        {
+            "title": "Robo race",
+        
+            "summary": "Won ﬁrst prize in Robo race conducted by Sona College of Technology on Feb 2019"
+        },
+        {
+            "title": "RoboLine Follower",
+        
+            "summary": "Won ﬁrst prize in Line Follower conducted by Sona College of Technology on Feb 2017 and 2018."
+        }
+    ],
+    "Area of interest":["Web development", "Game development"],
+    "hobbies":[
+        "learning web development",
+        "listening music"
+    ],
+    "Known languages":[
+        "Tamil",
+        "English"
+    ]
+}
